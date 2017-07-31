@@ -1,0 +1,8 @@
+
+http://blog.csdn.net/lenbow/article/details/52152766
+在tensorflow中保存参数
+http://blog.csdn.net/myjiayan/article/details/60810504
+win7下安装Anaconda+TensorFlow+配置PyCharm教程
+http://www.2cto.com/kf/201707/657407.html
+win10+CPU+tensorflow+pycharm
+http://www.bubuko.com/infodetail-2159614.html
